@@ -1,7 +1,9 @@
-<h1>TP GIT </h1>
-<ul>
-	<li>Nicolas Barberis</li>
-	<li>Bruno Rossi</li>
-	<li>Joaquin Perussia</li>
-	<li>Federico Barberis [CV Federico](CV_Federico_Barberis.md)</li>
-</ul>
+# **TP GIT**
+## Integrantes:
+* Federico Barberis 
+[CV Federico](https://github.com/Nico09Barberis/GIT-TP1/blob/7688775a1f639b8f225aedf4eff660e457e6e010/CV_Federico_Barberis.md)
+* Nicolas Barberis
+
+* Joaquin Perusia
+
+* Bruno Rossi 
